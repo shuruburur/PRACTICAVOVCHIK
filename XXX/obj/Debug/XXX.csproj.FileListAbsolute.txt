@@ -1,0 +1,39 @@
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\XXX.exe.config
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\XXX.exe
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\XXX.pdb
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\EntityFramework.dll
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\System.Data.SQLite.dll
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\EntityFramework.xml
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\My PC\Desktop\XXX\XXX\bin\Debug\System.Data.SQLite.xml
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.csproj.AssemblyReference.cache
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.Form1.resources
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.Properties.Resources.resources
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.csproj.GenerateResource.cache
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.csproj.Up2Date
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.exe
+C:\Users\My PC\Desktop\XXX\XXX\obj\Debug\XXX.pdb
+D:\XXX\XXX\bin\Debug\XXX.exe.config
+D:\XXX\XXX\bin\Debug\XXX.exe
+D:\XXX\XXX\bin\Debug\XXX.pdb
+D:\XXX\XXX\bin\Debug\EntityFramework.dll
+D:\XXX\XXX\bin\Debug\EntityFramework.SqlServer.dll
+D:\XXX\XXX\bin\Debug\System.Data.SQLite.dll
+D:\XXX\XXX\bin\Debug\System.Data.SQLite.EF6.dll
+D:\XXX\XXX\bin\Debug\System.Data.SQLite.Linq.dll
+D:\XXX\XXX\bin\Debug\EntityFramework.xml
+D:\XXX\XXX\bin\Debug\EntityFramework.SqlServer.xml
+D:\XXX\XXX\bin\Debug\System.Data.SQLite.xml
+D:\XXX\XXX\obj\Debug\XXX.csproj.AssemblyReference.cache
+D:\XXX\XXX\obj\Debug\XXX.Form1.resources
+D:\XXX\XXX\obj\Debug\XXX.Properties.Resources.resources
+D:\XXX\XXX\obj\Debug\XXX.csproj.GenerateResource.cache
+D:\XXX\XXX\obj\Debug\XXX.csproj.CoreCompileInputs.cache
+D:\XXX\XXX\obj\Debug\XXX.csproj.Up2Date
+D:\XXX\XXX\obj\Debug\XXX.exe
+D:\XXX\XXX\obj\Debug\XXX.pdb
+D:\XXX\XXX\obj\Debug\XXX.Form2.resources
